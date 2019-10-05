@@ -51,6 +51,10 @@ li a {
   background: #D3D3D3;
 }
 
+a:visited {
+color: #4B0082;
+}
+
 body {
 	margin:0;
 	padding:0;
