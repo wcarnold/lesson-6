@@ -105,6 +105,7 @@ footer {
 
 footer:hover {
     background-color: #D3D3D3;
+	transform: rotate(180deg);
 }
 
 .work {
