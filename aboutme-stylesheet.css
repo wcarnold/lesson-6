@@ -43,6 +43,10 @@ li a {
   text-decoration: none;
 }
 
+li:nth-child(even) {
+    color: grey;   
+}
+
 .nav {
   overflow: hidden;
   height: 50px;
