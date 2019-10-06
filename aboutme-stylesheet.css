@@ -43,7 +43,7 @@ li a {
   text-decoration: none;
 }
 
-li:nth-child(even) {
+li:nth-child(three) {
     color: grey;   
 }
 
