@@ -43,7 +43,7 @@ li a {
   text-decoration: none;
 }
 
-li:nth-child(three) {
+li a:nth-child(three) {
     color: grey;   
 }
 
