@@ -43,8 +43,8 @@ li a {
   text-decoration: none;
 }
 
-li a:nth-child(three) {
-    color: grey;   
+p:nth-child(4) {
+  background: #D3D3D3;
 }
 
 .nav {
