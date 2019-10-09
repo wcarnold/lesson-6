@@ -43,10 +43,6 @@ li a {
   text-decoration: none;
 }
 
-p:nth-child(4) {
-  background: #D3D3D3;
-}
-
 .nav {
   overflow: hidden;
   height: 50px;
@@ -65,6 +61,10 @@ body {
 
 h2 {
   text-align: center;
+}
+
+p:nth-child(1) {
+  background: #D3D3D3;
 }
 
 .center {
