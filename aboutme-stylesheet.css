@@ -63,8 +63,8 @@ h2 {
   text-align: center;
 }
 
-p:nth-child(1) {
-  background: #D3D3D3;
+p:nth-child(2) {
+  background: grey;
 }
 
 .center {
@@ -89,7 +89,6 @@ p:nth-child(1) {
   font-size: 14px;
   padding-bottom: 20px;
 }
-
 
 a:hover {
 font-weight: bold;
