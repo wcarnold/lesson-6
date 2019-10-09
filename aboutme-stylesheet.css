@@ -63,8 +63,8 @@ h2 {
   text-align: center;
 }
 
-p:nth-child(2) {
-  background: grey;
+p:nth-of-type(3) {
+  background: #D3D3D3;
 }
 
 .center {
